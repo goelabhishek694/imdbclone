@@ -51,7 +51,7 @@ function Movies({ pageNo }) {
   return (
     <div>
       <div className="text-2xl font-bold text-center m-5">
-        <h1>Trending Movies</h1>
+        <h1>Trending Movie</h1>
       </div>
       {movies ? (
         <div className="flex justify-evenly flex-wrap gap-8">
